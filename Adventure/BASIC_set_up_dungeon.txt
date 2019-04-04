@@ -1,0 +1,16 @@
+/** Original code from the book Spectrum Adventures
+    https://archive.org/details/SpectrumAdventures
+*/
+
+BASIC CODE ------------------
+
+1634 REM ********************
+1635 REM SET UP DUNGEON
+1636 REM ********************
+1640 DIM C(300) 
+
+1650 FOR a=1 TO 10: LET C(a)=999: NEXT a
+
+
+JAVA CODE -------------------
+
